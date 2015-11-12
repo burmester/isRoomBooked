@@ -30,8 +30,7 @@
     "cron": "^1.0.9",
     "express": "^4.12.3",
     "less": "^2.5.0",
-    "mongodb": "^2.0.31",
-    "mongoose": "^4.0.3",
+    "react": "^0.14.2",
     "requirejs": "^2.1.17",
     "underscore": "^1.8.3"
   }
